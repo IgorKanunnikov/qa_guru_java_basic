@@ -34,6 +34,7 @@ bin/
 out/
 logs/
 target/
+settings.gradle
 .classpath
 .project
 .settings/org.eclipse.buildship.core.prefs
